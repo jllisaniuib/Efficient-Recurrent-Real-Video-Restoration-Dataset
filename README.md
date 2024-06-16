@@ -11,7 +11,7 @@ The original sequences were obtained by cropping portions (simulating a panning 
 
 All the sequences consist of 20 frames, five of which were blurred by convolution with some of the kernels described in [1] and implemented in https://ipolcore.ipol.im/demo/clientApp/demo.html?id=211. 
 
-Correlated noise was produced by blurring (with a Gaussian kernel of standard deviation 1.2) a zero-mean white Gaussian noise image with noise level $\sigma$ ($\sigma$ in {10, 20}) that was added to each frame of the sequences. These noisy sequences can be found in the **bnoisy** folder (the number at the end of the subfolder names indicates the amount of added noise).
+Correlated noise was produced by blurring (with a Gaussian kernel of standard deviation 1.2) a zero-mean white Gaussian noise image with noise level $\sigma$ (with $\sigma$ in {10, 20}) that was added to each frame of the sequences. These noisy sequences can be found in the **bnoisy** folder (the number at the end of the subfolder names indicates the amount of added noise).
 
 A last test set was obtained by first modifying the original sequences to simulate a tonal change, and applying the same noise and blurring process described above. These sequences can be found in the **tbnoisy** folder (the number at the end of the subfolder names indicates the amount of added noise).
 
