@@ -17,3 +17,4 @@ A last test set was obtained by first modifying the original sequences to simula
 
 [1] Levin, Anat, Yair Weiss, Fredo Durand, and William T. Freeman. "Understanding and evaluating blind deconvolution algorithms." In 2009 IEEE conference on computer vision and pattern recognition, pp. 1964-1971. IEEE, 2009.
 
+For more information please contact joseluis.lisani@uib.es
